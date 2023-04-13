@@ -2,7 +2,7 @@ package Mycodes;
 
 import java.util.Iterator;
 
-public class Alpha {
+public class TilingProblem {
 
 	public static void main(String[] args) {
 		System.out.println(tilingProblem(5));
